@@ -1,1 +1,4 @@
-.ipynb_checkpoints
+**/*.ipynb_checkpoints/
+/Milestone1/production_data.csv
+/Milestone1/wellsData.csv
+/Milestone1/operator_aliasing.csv
