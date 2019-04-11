@@ -1,11 +1,11 @@
+Milestone1/*.csv
 Milestone1/.ipynb_checkpoints/
 Milestone1/production_data.csv
 Milestone1/wellsData.csv
 Milestone1/preprocessed_data.csv
 Milestone1/operator_aliasing.csv
-Milestone1/*.csv
-Milestone2/production_data_test.csv
 Milestone2/*.csv
 Milestone2/.ipynb_checkpoints/
 Milestone2/*.zip
+Milestone2/production_data_test.csv
 .idea
